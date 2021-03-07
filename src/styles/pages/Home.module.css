@@ -20,5 +20,7 @@
 @media(max-width: 600px) {
     .container section {
         grid-template-columns: 1fr;
-    }
+        padding-bottom: 4rem;
+    } 
 }
+
