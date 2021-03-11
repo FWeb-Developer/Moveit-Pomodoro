@@ -19,8 +19,8 @@
 <h2>
     🔨 Tecnologias
 </h2>
+<img width="100px" src="./public/logo-next.png">
 <ul>
-    <p align="center">img</p>
     <li>HTML</li>
     <li>CSS</li>
     <li>Typescript</li>
