@@ -33,14 +33,15 @@
 <hr>
 
 <h2>
-    Confira o Projeto!
+    Confira o Projeto! <img width="150px" src="https://img.shields.io/badge/made%20by-Felipe%20Panebianchi-blue">
 </h2>
+
 <img src="./public/screenshots/moveit-print.png">
 <img src="./public/screenshots/moveit-print2.png">
 <img src="./public/screenshots/moveit-print4.png">
 <hr>
 
-<h2>Também para Mobile e IOS</h2>
+<h2>Também para Android e IOS</h2>
 <img src="./public/gif-mobile.gif">
 
 <hr>
