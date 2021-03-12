@@ -34,19 +34,13 @@
 
 @media(max-width: 1260px) {
     html {
-        font-size: 90.75%;
-    }
-}
-
-@media(max-width: 720px) {
-    html {
         font-size: 87.50%;
     }
 }
 
 @media(max-width: 340px) {
     html {
-        font-size: 69%;
+        font-size: 68%;
     }
 }
 

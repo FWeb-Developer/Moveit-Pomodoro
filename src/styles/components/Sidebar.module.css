@@ -51,6 +51,7 @@
 
     .SidebarContainer header img {
         margin-bottom: 1rem;
+        margin-left: .5rem;
     }
 
     .SidebarContainer header button {
