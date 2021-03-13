@@ -19,5 +19,3 @@ export function Sidebar(){
         </div>
     )
 }
-
-

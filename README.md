@@ -3,21 +3,21 @@
 </h1>
 
 <h2>
-    🚀 Projeto
+    🚀 Project
 </h2>
-<p>Mantenha o foco e aumente sua produtividade com o Move.it, um projeto que consiste na tecnica "Pomodoro".</p>
+<p>Stay focused and increase your productivity with Move.it, a project that consists of the "Pomodoro" technique.</p>
 
-<p>No fim de cada sessão (25 minutos de foco) você irá descansar por 5 minutos e fazer um desafio que aparecerá na tela, isso vai fazer com que você consiga ficar mais tempo na frente do computador sem cansar e o cerébro filtrar mais o conhecimento que está aprendendo, cada desafio concluído te dará XP para upar para o próximo nivel.</p>
+<p>At the end of each session (25 minutes of focus) you will rest for 5 minutes and do a challenge that will appear on the screen, this will make you able to stay longer in front of the computer without getting tired and your brain will filter more knowledge, each completed challenge will give you XP to level up.</p>
 <hr>
 
 <h2>
-    📕 Sobre o Evento
+    📕 About the event
 </h2>
-<p>Move.it foi desenvolvido durante os dias 22 a 28 de Fevereiro, foi a 4° edição do NLW (Next Level Week) pela equipe da Rocketseet, ministrado pelo professor Diego Fernandes, CTO da Rocketseet.</p>
+<p>Move.it was developed during February 22-28, it was the fourth edition of NLW (Next Level Week) by the Rocketseet team, taught by Professor Diego Fernandes, CTO of Rocketseet.</p>
 <hr>
 
 <h2>
-    🔨 Tecnologias
+    🔨 Technology 
 </h2>
 <img width="100px" src="./public/logo-next.png">
 <ul>
@@ -33,7 +33,7 @@
 <hr>
 
 <h2>
-    Confira o Projeto! <img width="150px" src="https://img.shields.io/badge/made%20by-Felipe%20Panebianchi-blue">
+    Check out the project! <img width="150px" src="https://img.shields.io/badge/made%20by-Felipe%20Panebianchi-blue">
 </h2>
 
 <img src="./public/screenshots/moveit-print.png">
@@ -41,41 +41,41 @@
 <img src="./public/screenshots/moveit-print4.png">
 <hr>
 
-<h2>Também para Android e IOS</h2>
+<h2>Also for Android and IOS</h2>
 <img src="./public/gif-mobile.gif">
 
 <hr>
 
 <h2>
-    Como contribuir
+    How to contribute?
 </h2>
 
 ```bash
-    # Entre no seu terminal para clonar o projeto
+    # In your terminal, clone the project
 
     $ git clone https://github.com/FWeb-Developer/Moveit-Pomodoro.git
 
 ```
 
 ```bash
-    # Entre na pasta
+    # Enter the folder
 
     $ cd Moveit-Pomodoro
 ```
 
 ```bash
-    # Instale as dependências
+    # Install the dependencies
 
     $ yarn install
 ```
 
 ```bash
-    # Rode a aplicação
+    # Run the aplication
 
     $ yarn dev
 ```
 
 <hr>
-<h2>📝 Licença</h2>
+<h2>📝 License</h2>
 
-<p>Este projeto esta sob uma <a href="https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT#:~:text=A%20licen%C3%A7a%20MIT%2C%20tamb%C3%A9m%20chamada,livre%20quanto%20em%20software%20propriet%C3%A1rio."><img align="center" src="https://img.shields.io/badge/Licen%C3%A7a-MIT-blue"></a></p>
+<p>This project is under a <a href="https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT#:~:text=A%20licen%C3%A7a%20MIT%2C%20tamb%C3%A9m%20chamada,livre%20quanto%20em%20software%20propriet%C3%A1rio."><img align="center" src="https://img.shields.io/badge/Licen%C3%A7a-MIT-blue"></a></p>
